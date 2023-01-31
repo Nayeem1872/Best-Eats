@@ -2,6 +2,8 @@ import React from "react";
 import HeadLineCards from "./components/HeadLineCards";
 import Main from "./components/Main";
 import Navbar from "./components/Navbar";
+import Food from "./components/Food"
+
 
 function App() {
   return (
@@ -11,6 +13,8 @@ function App() {
       < Main />
 
       < HeadLineCards />
+
+      <Food/>
       
     </div>
   );

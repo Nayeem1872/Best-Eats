@@ -47,7 +47,7 @@ const Food = () => {
 
             </div>
 
-{/* Display Images */}
+{/* Display Images  */}
         <div>
 
 
